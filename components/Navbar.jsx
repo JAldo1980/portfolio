@@ -12,7 +12,7 @@ export default function Navbar() {
   return (
     <div className="nav-container">
       <img
-        src="dist/images/james-alderman-logo-removebg-preview.png"
+        src="james-alderman-logo-removebg-preview.png"
         className="logo-img"
         alt="Logo"
       />
