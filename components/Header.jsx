@@ -19,7 +19,7 @@ export default function Header() {
         <div className="header-right-col">
           <img
             className="james-alderman-img"
-            src="dist/images/james-alderman-img-removebg.png"
+            src="james-alderman-img-removebg.png"
             alt="picture of James Alderman"
           />
         </div>
