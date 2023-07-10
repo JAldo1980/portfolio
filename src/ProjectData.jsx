@@ -6,7 +6,7 @@ export default [
     tech: ["Array Manipulation", "Event Handling", "DOM Manipulation"],
     buttonOne: "https://github.com/JAldo1980/invoice-builder/tree/main",
     buttonTwo: "https://invoice-it-up.netlify.app/",
-    image: "public/invoice-builder-removebg-preview.png",
+    image: "/public/invoice-builder-removebg-preview.png",
   },
 
   {
@@ -16,7 +16,7 @@ export default [
     tech: ["JavaScript", "Flexbox", "Grid", "Media Queries"],
     buttonOne: "https://github.com/JAldo1980/agency-landing-page",
     buttonTwo: "https://watson-your-socials.netlify.app/",
-    image: "dist/images/project-landing-page-removebg-preview.png",
+    image: "./project-landing-page-removebg-preview.png",
   },
   {
     headline: "Travel Info Website",
