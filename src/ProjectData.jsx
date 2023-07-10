@@ -6,7 +6,7 @@ export default [
     tech: ["Array Manipulation", "Event Handling", "DOM Manipulation"],
     buttonOne: "https://github.com/JAldo1980/invoice-builder/tree/main",
     buttonTwo: "https://invoice-it-up.netlify.app/",
-    image: "dist/images/invoice-builder-removebg-preview.png",
+    image: "public/invoice-builder-removebg-preview.png",
   },
 
   {
