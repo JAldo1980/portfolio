@@ -11,7 +11,7 @@ export default function About() {
         <br></br>
         <p>Current tech used: JavaScript, React JS.</p>
          <br></br>
-        <p>I continue to develop my React JS skills with the aim of working towards creating MERN stack applications - with the aim of being able to create solutions for busienss problems.</p>
+        <p>I continue to develop my React JS skills and knowledge with the aim of working towards creating MERN stack applications - insuring I have the ability to be able to create solutions for business problems.</p>
         <br></br>
         <p>
           My interest in web development began during my university days, where
