@@ -6,7 +6,7 @@ export default function About() {
       <div className="about-inner-container">
         <h2>About</h2>
        <p>
-         Hi, welcome to my portfolio 😊.
+         Hi, welcome to my portfolio 😊. 
        </p>
         <br></br>
         <p>Current tech used: JavaScript, React JS.</p>
