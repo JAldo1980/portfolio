@@ -5,17 +5,13 @@ export default function About() {
     <div className="about-container" id="about-scroll">
       <div className="about-inner-container">
         <h2>About</h2>
-        <p>
-          With a strong background in marketing, I've been passionate about
-          training and empowering aspiring marketers for the past 8 years.
-        </p>
+       <p>
+         Hi, welcome to my portfolio 😊.
+       </p>
         <br></br>
-        <p>
-          I have designed and delivered comprehensive digital marketing
-          frameworks and courses for enthusiastic apprentices and students
-          throughout the UK and have empowered newcomers to the digital world
-          and helped them maximise the exciting opportunities available.
-        </p>
+        <p>Current tech used: JavaScript, React JS.</p>
+         <br></br>
+        <p>I continue to develop my React JS skills with the aim of working towards creating MERN stack applications - with the aim of being able to create solutions for busienss problems.</p>
         <br></br>
         <p>
           My interest in web development began during my university days, where
@@ -33,16 +29,11 @@ export default function About() {
         <br></br>
         <p>
           Inspired by this realisation, I embarked on a self-taught journey to
-          become a front-end web developer. In addition to expanding my
-          front-end skills, I actively engage with a growing community on
-          LinkedIn, emphasising the significance of digital portfolios.
+          become a front-end web developer.
         </p>
         <br></br>
         <p>
-          I offered my services to aspiring marketers and junior front-end
-          developers, helping them create impactful digital portfolios that can
-          enhance their job prospects. Today? I can't wait to start a new career
-          in tech. Thanks for reading.
+          In addition, I am also a qualified and experienced digital marketer - which can always come in handy! Thank you for reading.
         </p>
       </div>
     </div>
